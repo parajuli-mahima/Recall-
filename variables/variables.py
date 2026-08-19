@@ -1,19 +1,12 @@
-# ============================================================
 # PYTHON VARIABLES
 # Basic to Advanced Practice
-# ============================================================
 
-
-# ============================================================
 # LEVEL 1 — FUNDAMENTALS
-# ============================================================
 
 # Q1. Create a variable containing your name.
 
 name = "Mahima"
 print(name)
-
-
 # Q2. Create variables for your name, age, and course.
 
 name = "Mahima"
@@ -24,14 +17,12 @@ print(name)
 print(age)
 print(course)
 
-
 # Q3. Print the value and data type of a variable.
 
 name = "Mahima"
 
 print("Value:", name)
 print("Data type:", type(name))
-
 
 # Q4. Create variables containing different values.
 
@@ -45,10 +36,7 @@ print(age)
 print(height)
 print(is_student)
 
-
-# ============================================================
 # LEVEL 2 — BASIC PRACTICE
-# ============================================================
 
 # Q5. Assign multiple variables in one statement.
 
@@ -58,7 +46,6 @@ print(name)
 print(age)
 print(city)
 
-
 # Q6. Assign the same value to multiple variables.
 
 x = y = z = 100
@@ -66,7 +53,6 @@ x = y = z = 100
 print(x)
 print(y)
 print(z)
-
 
 # Q7. Update the value of a variable.
 
@@ -88,10 +74,7 @@ total = price * quantity
 
 print("Total:", total)
 
-
-# ============================================================
 # LEVEL 3 — INTERMEDIATE PRACTICE
-# ============================================================
 
 # Q9. Calculate the average of three marks.
 
@@ -105,7 +88,6 @@ average = total_marks / 3
 print("Total:", total_marks)
 print("Average:", average)
 
-
 # Q10. Swap the values of two variables.
 
 a = 10
@@ -116,7 +98,6 @@ a, b = b, a
 print("a:", a)
 print("b:", b)
 
-
 # Q11. Calculate the area of a rectangle.
 
 length = 10
@@ -125,7 +106,6 @@ width = 5
 area = length * width
 
 print("Area:", area)
-
 
 # Q12. Calculate the final salary.
 
@@ -137,10 +117,7 @@ final_salary = basic_salary + allowance - deduction
 
 print("Final salary:", final_salary)
 
-
-# ============================================================
 # LEVEL 4 — ADVANCED PRACTICE
-# ============================================================
 
 # Q13. Use variables to calculate a discounted price.
 
@@ -153,7 +130,6 @@ final_price = original_price - discount_amount
 print("Original price:", original_price)
 print("Discount:", discount_amount)
 print("Final price:", final_price)
-
 
 # Q14. Calculate the total and average marks of five subjects.
 
@@ -176,7 +152,6 @@ average = total / 5
 print("Total marks:", total)
 print("Average marks:", average)
 
-
 # Q15. Convert age from years into months and days.
 
 age_years = 21
@@ -187,7 +162,6 @@ age_days = age_years * 365
 print("Age in months:", age_months)
 print("Approximate age in days:", age_days)
 
-
 # Q16. Calculate electricity cost.
 
 units = 150
@@ -197,10 +171,7 @@ electricity_bill = units * cost_per_unit
 
 print("Electricity bill:", electricity_bill)
 
-
-# ============================================================
 # LEVEL 5 — REAL-WORLD PRACTICE
-# ============================================================
 
 # Q17. Create a student profile using variables.
 
@@ -220,7 +191,6 @@ print("Course:", course)
 print("Marks:", marks)
 print("Passed:", passed)
 
-
 # Q18. Calculate a shopping bill.
 
 item_price = 1200
@@ -237,7 +207,6 @@ print("Subtotal:", subtotal)
 print("Discount:", discount)
 print("Final amount:", final_amount)
 
-
 # Q19. Calculate employee net salary.
 
 basic_salary = 40000
@@ -253,10 +222,7 @@ print("-------------------------")
 print("Gross salary:", gross_salary)
 print("Net salary:", net_salary)
 
-
-# ============================================================
 # LEVEL 6 — CHALLENGE
-# ============================================================
 
 # Q20. Calculate the total cost of a trip.
 
@@ -274,7 +240,6 @@ print("Hotel:", hotel)
 print("Food:", food)
 print("Activities:", activities)
 print("Total trip cost:", total_trip_cost)
-
 
 # Q21. Calculate the final amount after tax and discount.
 
@@ -294,7 +259,6 @@ print("Original price:", product_price)
 print("Discount:", discount)
 print("Tax:", tax)
 print("Final amount:", final_amount)
-
 
 # Q22. Create a complete student result calculation.
 
